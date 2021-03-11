@@ -1,26 +1,24 @@
----
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: hero
+headless: true  # This file represents a page section.
 
-# This file represents a page section.
-headless: true
+# ... Put Your Section Options Here (title etc.) ...
+This is a title.
 
-# Order that this section appears on the page.
-weight: 1
+# Hero image (optional). Enter filename of an image in the page folder.
+hero_media: ''
 
-# Section title
-title: Hello
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: download
+cta_alt:
+  url: 'https://wowchemy.com'
+  label: View Documentation
 
-# Section subtitle
-subtitle:
-
-# Section design
-design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
----
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
