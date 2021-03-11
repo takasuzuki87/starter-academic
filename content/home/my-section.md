@@ -1,4 +1,5 @@
 ---
+
 widget: hero
 headless: true  # This file represents a page section.
 
@@ -23,3 +24,4 @@ cta_alt:
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ''
+---
