@@ -1,6 +1,6 @@
 ---
 widget: featurette
-# widget_id: enable
+widget_id: enabled
 headless: true
 weight: 30
 title: Skills
@@ -18,5 +18,5 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-active: false
+active: true
 ---
