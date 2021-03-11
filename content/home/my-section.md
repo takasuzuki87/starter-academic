@@ -1,3 +1,4 @@
+---
 widget: hero
 headless: true  # This file represents a page section.
 
