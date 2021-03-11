@@ -1,6 +1,6 @@
 ---
 widget: featurette
-widget_id: enable
+# widget_id: enable
 headless: true
 weight: 30
 title: Skills
