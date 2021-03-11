@@ -1,9 +1,9 @@
 ---
 widget: about
-widget_id: deleting
+widget_id: add
 headless: true
 weight: 20
 title: Biography
-active: false
+active: true
 author: admin
 ---
